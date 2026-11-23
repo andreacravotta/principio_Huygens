@@ -1,0 +1,6 @@
+{
+  "name": "Principio di Huygens-Fresnel — Simulatore 2D",
+  "description": "Simulazione didattica interattiva della propagazione di un'onda meccanica bidimensionale secondo il principio di Huygens-Fresnel, con fronte piano, arco sferico e curva di Bézier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
